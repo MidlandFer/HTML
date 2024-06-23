@@ -16,8 +16,5 @@ p {
 }
 
 body {
-    background-image: url("../imagenes/descarga.webp");//cambiar imagen y crear carpeta
+    background-image: url("../imagenes/descarga.webp");/*/cambiar imagen y crear carpeta
     background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}

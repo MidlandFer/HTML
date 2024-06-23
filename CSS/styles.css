@@ -1,0 +1,19 @@
+/* Selector de tipo */
+
+p {
+    color: red;
+    font-size: 20px;
+}
+
+/* Selector de clase */
+.colorAzul {
+    color:blue;
+}
+
+#especial {
+    color: yellow;
+    font-size: 50px;
+}
+
+body {
+    background-image: url("../Users/Usuario/Cursos/HTML/Heroes_Del _Silencio.jpg");

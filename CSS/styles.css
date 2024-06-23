@@ -1,11 +1,16 @@
 /* Selector de tipo */
-
+h1 {
+    color: blue;
+}
 p {
     color: red;
     font-size: 20px;
 }
 
 /* Selector de clase */
+
+
+
 .colorAzul {
     color:blue;
 }

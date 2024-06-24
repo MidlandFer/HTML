@@ -1,6 +1,7 @@
 /* Selector de tipo */
 h1 {
     color: blue;
+    font-size: 15px;
 }
 p {
     color: red;

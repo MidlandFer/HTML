@@ -23,4 +23,9 @@ body{
 }
 
 body {
-    background-image: url("/IMAGENES/Heroes_Fondo.webp")};
+    background-image: url("/IMAGENES/Heroes_Fondo.webp")
+}
+ img{
+    size: 15px;
+    
+ }
